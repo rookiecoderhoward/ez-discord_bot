@@ -1,4 +1,4 @@
-# DC server 部分指令
+# DC server(部分指令)
 ## !有希
 ###### DC畫面  
 ![螢幕擷取畫面 2024-08-30 193310](https://github.com/user-attachments/assets/d66d2350-74e2-4bb1-9815-c46e56df6ec3)
